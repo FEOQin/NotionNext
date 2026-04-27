@@ -10,7 +10,7 @@ const CONFIG = {
   HEO_NOTICE_BAR: [
     { title: '🎉 欢迎来到我的博客 🐥🤡胎煤 🎉', url: 'https://nblogs.qbobo.eu.org' },
     { title: 'Ctrl+D收藏本站不迷路', url: '' }
-  ]
+  ],
 
   // 英雄区左右侧组件颠倒位置
   HEO_HERO_REVERSE: false,
